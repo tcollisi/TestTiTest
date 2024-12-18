@@ -1,1 +1,6 @@
 Branch1
+Nun könnte man hier auch gleich einen Branch2 anlegen
+
+Branch2
+=======
+Der Text muss hier noch geschrieben werden (dies wurde im B1 erstellt)
