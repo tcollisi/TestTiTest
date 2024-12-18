@@ -5,7 +5,7 @@ Nun könnte man hier auch gleich einen Branch2 anlegen
 
 Für Branch2
 ===========
-Der Text muss hier noch geschrieben werden (dies wurde im main erstellt)
+Der Text muss hier noch geschrieben werden, der in Branch2 (B2) geändert wurde.
 
 Für Branch3
 ===========
